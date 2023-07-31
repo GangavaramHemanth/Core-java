@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9049fe6-5fa0-4d91-accd-3b8aeb4af847" name="Changes" comment="intial commit" />
+    <list default="true" id="c9049fe6-5fa0-4d91-accd-3b8aeb4af847" name="Changes" comment="intial commit">
+      <change afterPath="$PROJECT_DIR$/src/Staticmethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestStaticMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TeststaticVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/staticvariable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +39,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2SVao9fTmrnMI2JTqUyhaW1MXlL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -49,14 +55,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ContinueExample">
-    <configuration name="BreakExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BreakExample" />
-      <module name="java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TestStaticMethod">
     <configuration name="Calculation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calculation" />
       <module name="java" />
@@ -71,15 +70,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ifelsestatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ifelsestatement" />
+    <configuration name="LeftshiftOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeftshiftOperator" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Nestedifstatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nestedifstatement" />
+    <configuration name="TestStaticMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestStaticMethod" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TeststaticVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TeststaticVariable" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,11 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestStaticMethod" />
+        <item itemvalue="Application.TeststaticVariable" />
+        <item itemvalue="Application.LeftshiftOperator" />
         <item itemvalue="Application.ContinueExample" />
         <item itemvalue="Application.Calculation" />
-        <item itemvalue="Application.BreakExample" />
-        <item itemvalue="Application.Nestedifstatement" />
-        <item itemvalue="Application.Ifelsestatement" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690171491442</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="intial commit">
+      <created>1690180846936</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1690180846936</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

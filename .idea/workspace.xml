@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9049fe6-5fa0-4d91-accd-3b8aeb4af847" name="Changes" comment="intial commit">
-      <change afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animal1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animal2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,9 +51,16 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.HelloWorld">
+  <component name="RunManager" selected="Application.IfElseIfExample">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IfElseIfExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IfElseIfExample" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,20 +87,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStaticMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestStaticMethod" />
-      <module name="java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IfElseIfExample" />
         <item itemvalue="Application.HelloWorld" />
         <item itemvalue="Application.TestInheritance3" />
         <item itemvalue="Application.TestInheritance2" />
         <item itemvalue="Application.TestInheritance" />
-        <item itemvalue="Application.TestStaticMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691486517079</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="intial commit">
+      <created>1691663508905</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1691663508905</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
